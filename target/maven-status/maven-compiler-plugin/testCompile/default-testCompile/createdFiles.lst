@@ -1,0 +1,4 @@
+com\bulk\imports\persistance\EmployeeRepositoryTest.class
+com\bulk\imports\service\BulkServiceTest.class
+com\bulk\imports\DataApplicationTests.class
+com\bulk\imports\rest\ControllerTest.class
